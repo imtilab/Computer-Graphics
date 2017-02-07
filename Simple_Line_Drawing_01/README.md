@@ -5,8 +5,8 @@ Task:
 1. Manually take some inputs and draw some lines
 2. Draw a line using loop (take x and y value)
 3. Create an input file “coordinates.txt”
-   file contains 2D coordinate (x,y); where 1>=x>=-1 and 1>=y>=-1
-   Draw the coordinates on the canvas. (at least 10 points)
+   -file contains 2D coordinate (x,y); where 1>=x>=-1 and 1>=y>=-1
+   -Draw the coordinates on the canvas. (at least 10 points)
 
 
 -------------
