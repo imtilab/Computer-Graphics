@@ -1,5 +1,8 @@
-# Computer-Graphics
+# Classwork08_Cube-Animation
 
+Draw an animated cube.
+
+-------------
 Requirements: 
 
 You must configure your IDE for graphics project.
