@@ -1,4 +1,4 @@
-# Classwork05_Cohen-Sutherland-Line-Clipping-Algorithm-01
+# Classwork05_Cohen-Sutherland-Line-Clipping-Algorithm
 
 Process:
 
