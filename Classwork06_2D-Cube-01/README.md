@@ -1,4 +1,4 @@
-# Classwork06_2D-Cube-01
+# Classwork06_2D-Cube
 
 Task:
 
