@@ -1,5 +1,8 @@
-# Computer-Graphics
+# Classwork07_Circle
 
+Draw a Circle.
+
+--------------
 Requirements: 
 
 You must configure your IDE for graphics project.
