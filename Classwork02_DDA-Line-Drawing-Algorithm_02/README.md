@@ -2,9 +2,9 @@
 
 Classwork 2:
 
-•	Take input  for 10 lines from a text file ( pair of start and end point)
-•	Determine slope for each line 
-•	Implement DDA algorithm 
+1. Take input  for 10 lines from a text file ( pair of start and end point)
+2. Determine slope for each line 
+3. Implement DDA algorithm 
 
 -------------------
 Requirements: 
