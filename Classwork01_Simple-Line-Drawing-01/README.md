@@ -1,4 +1,4 @@
-# Computer-Graphics: Classwork01_Simple-Line-Drawing-01
+# Classwork01_Simple-Line-Drawing-01
 
 Task:
 
