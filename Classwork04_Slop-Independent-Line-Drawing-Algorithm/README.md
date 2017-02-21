@@ -25,20 +25,20 @@ Steps:
         - Else 
             - Return zone=6
 3.	Calculate next pixel for zone 0
-        - If (zone 1|| 2||5||6)
-            - Swap (x0,y0)
-            - Swap (x1,y1)
-        - Dinit=2dy-dx
-        - dNE=?
-        - dE=?
-        - Loop until (x0<x1)
-            - If(dinit<0)
-                - Dinit+=dE
-            - Else 
-                - Dinit+=dNE
-                - Y++
-            - X++
-            - Convert back to correct zones coordinates ConvBack(x,y)
+    - If (zone 1|| 2||5||6)
+        - Swap (x0,y0)
+        - Swap (x1,y1)
+    - Dinit=2dy-dx
+    - dNE=?
+    - dE=?
+    - Loop until (x0<x1)
+        - If(dinit<0)
+            - Dinit+=dE
+        - Else 
+            - Dinit+=dNE
+            - Y++
+        - X++
+        - Convert back to correct zones coordinates ConvBack(x,y)
 
 4.	ConvBack(x,y){ //each zone should have a different color
     - If(zone==0)
