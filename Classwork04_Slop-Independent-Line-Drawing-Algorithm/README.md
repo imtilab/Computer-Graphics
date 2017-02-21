@@ -62,9 +62,9 @@ Steps:
 
 }
 
-gl.glColor3f(1f,0f,0f); //gives us red
-gl.glColor3f(0f,1f,0f); //gives us green
-gl.glColor3f(0f,0f,1f); //gives us blue
+- gl.glColor3f(1f,0f,0f); //gives us red
+- gl.glColor3f(0f,1f,0f); //gives us green
+- gl.glColor3f(0f,0f,1f); //gives us blue
 
 
 
