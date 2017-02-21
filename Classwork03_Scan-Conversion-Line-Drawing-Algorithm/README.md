@@ -3,11 +3,11 @@
 SCAN CONVERSION LINE DRAWING (Slope dependent):
 
 1. Given the start and endpoints write a java program to draw the line (slope m = 1,-1, 0, ∞) using points.
- a. If slope m is 1 then, increment x and y draw the point
- b. If slope m is -1 then, increment x and decrement y
- c. If slope m is 0 then, increment x
- d. If slope m is ∞ then, increment y
- e. For any other slope declare invalid
+ -If slope m is 1 then, increment x and y draw the point
+ If slope m is -1 then, increment x and decrement y
+ If slope m is 0 then, increment x
+ If slope m is ∞ then, increment y
+ For any other slope declare invalid
 
 Procedure:
 - Read the coordinates (from user or a .txt file)
