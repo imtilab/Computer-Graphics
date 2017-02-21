@@ -1,4 +1,4 @@
-# Classwork02_DDA-Line-Drawing-Algorithm_02
+# Classwork02_DDA-Line-Drawing-Algorithm
 
 Classwork 2:
 
